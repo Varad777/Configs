@@ -1,0 +1,5 @@
+bind "f" "flash"
+bind "e" "+lastinv"
+bind "q" "+use"
+bind "c" "sgren"
+bind "4" "hegren"
